@@ -1,16 +1,21 @@
 _repo: Nuevas-investigaciones-sobre-el-origen-del-nombre-America_62211
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Rodriguez, J. D.
     gutenberg_agent_id: '51831'
     url: http://www.gutenberg.org/2009/agents/51831
+covers:
+- cover_type: archival
+  image_path: 62211-h/images/cover.jpg
 creator:
   author:
     agent_name: Marcou, Jules
     gutenberg_agent_id: '51830'
     url: http://www.gutenberg.org/2009/agents/51830
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62211#Nuevas-investigaciones-sobre-el-origen-del-nombre-America
 gutenberg_issued: '2020-05-23'
 gutenberg_type: Text
 identifiers:
